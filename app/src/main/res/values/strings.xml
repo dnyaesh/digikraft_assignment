@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bike Station</string>
+    <string name="bike_station">. Bike Station</string>
+    <string name="available_bikes">Available Bikes</string>
+    <string name="available_places">Available Places</string>
+    <string name="map_message">Purposely not showing map as Google ask for Bank/Card Details</string>
+
+</resources>

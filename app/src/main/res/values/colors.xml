@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="station_name_clr">#303030</color>
+    <color name="bike_station_clr">#727272</color>
+    <color name="available_bike_clr">#65d197</color>
+    <color name="available_places_clr">#3f3f3f</color>
+    <color name="station_list_bg_clr">#f6f6f6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
